@@ -15,7 +15,7 @@ With the introduction of the NYC Noise Code Guide, NYC residents recognized that
 
 ![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/311%20Noise%20Complaints%20by%20Category.png)
 
-- What Kind of Noise Are People Suffering in Each Hour
+- What's the Main Noise People Suffering in Each Hour
 
 ![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/311%20Noise%20Complaints%20by%20Hour%20and%20Category.png)
 
