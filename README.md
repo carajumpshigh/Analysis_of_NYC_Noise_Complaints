@@ -8,3 +8,12 @@ With the introduction of the NYC Noise Code Guide, NYC residents recognized that
 <br/>
 
 ![Methodology](Workflow.jpeg)
+
+
+## Fun Facts
+![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/311%20Noise%20Complaints%20by%20Category.png)
+![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/311%20Noise%20Complaints%20by%20Hour%20and%20Category.png)
+![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/311%20Noise%20Complaints%20by%20Hour%20for%20Each%20Category.png)
+![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/311%20Noise%20Complaints%20by%20Month%20for%20Each%20Category.png)
+![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/311%20noise%20complaints(log).png)
+![Methodology](https://github.com/carajumpshigh/Analysis_of_NYC_Noise_Complaints/blob/master/result_img/Main_Reason_for_311_Noise_Complaints.png)
